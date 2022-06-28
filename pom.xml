@@ -33,7 +33,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.78</version>
+            <version>1.2.83</version>
         </dependency>
 
         <!-- Apache Commons Lang，一个Java实用程序类包，用于java.lang层次结构中的类，或被认为是标准的，以证明java.lang中的存在。 -->
