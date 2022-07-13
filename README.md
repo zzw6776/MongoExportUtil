@@ -43,3 +43,4 @@ static List<String> outMongoCollerticonsPrefix = Arrays.asList("xxxxx", "xxxxx",
 
 若mongo的表名是xxxx_1,xxxx_2,xxxx_3的类似命名,可通过`MongoUtilComplex`进行导出,`mongoCollerticonsPrefix `的值为xxxx,建表语句会删除后缀变成xxxx的表名,该类型的表的导出语句会额外储存在一个文件里.`outMongoCollerticonsPrefix `用于填写前缀相同的名字但是不希望被分类统计表,类似于xxxx_abcd
 
+#####这都是写的什么鬼东西，麻烦这种东西设置私人项目
